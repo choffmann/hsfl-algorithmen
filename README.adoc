@@ -1,4 +1,4 @@
 = HSFL - Algorithmen
 
-- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS20_21[WS 20/21]
-- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22[WS 21/22]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS20_21[WS20/21]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22[WS21/22]
