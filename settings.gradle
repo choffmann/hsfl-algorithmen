@@ -1,1 +1,36 @@
 rootProject.name = 'Algorithmen'
+
+include 'Laboraufgaben:WS20_21:assignment-01-choffmann','Laboraufgaben:WS20_21:assignment-02-choffmann',
+        'Laboraufgaben:WS20_21:assignment-03-choffmann', 'Laboraufgaben:WS20_21:assignment-04-choffmann',
+        'Laboraufgaben:WS20_21:assignment-05-choffmann', 'Laboraufgaben:WS20_21:assignment-06-choffmann',
+        'Laboraufgaben:WS20_21:assignment-07-choffmann', 'Laboraufgaben:WS20_21:assignment-08-choffmann',
+        'Laboraufgaben:WS20_21:assignment-09-choffmann', 'Laboraufgaben:WS20_21:assignment-10-choffmann',
+        'Laboraufgaben:WS20_21:assignment-11-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-00-choffmann',
+        'Laboraufgaben:WS21_22:laboraufgabe-01-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-02-choffmann',
+        'Laboraufgaben:WS21_22:laboraufgabe-03-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-04-choffmann',
+        'Laboraufgaben:WS21_22:laboraufgabe-05-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-06-choffmann',
+        'Laboraufgaben:WS21_22:laboraufgabe-07-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-08-choffmann',
+        'Laboraufgaben:WS21_22:laboraufgabe-09-choffmann'
+
+findProject(':Laboraufgaben:WS20_21:assignment-01-choffmann')?.name = 'assignment-01-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-02-choffmann')?.name = 'assignment-02-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-03-choffmann')?.name = 'assignment-03-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-04-choffmann')?.name = 'assignment-04-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-05-choffmann')?.name = 'assignment-05-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-06-choffmann')?.name = 'assignment-06-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-07-choffmann')?.name = 'assignment-07-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-08-choffmann')?.name = 'assignment-08-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-09-choffmann')?.name = 'assignment-09-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-10-choffmann')?.name = 'assignment-10-choffmann'
+findProject(':Laboraufgaben:WS20_21:assignment-11-choffmann')?.name = 'assignment-11-choffmann'
+
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-00-choffmann')?.name = 'laboraufgabe-00-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-01-choffmann')?.name = 'laboraufgabe-01-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-02-choffmann')?.name = 'laboraufgabe-02-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-03-choffmann')?.name = 'laboraufgabe-03-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-04-choffmann')?.name = 'laboraufgabe-04-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-05-choffmann')?.name = 'laboraufgabe-05-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-06-choffmann')?.name = 'laboraufgabe-06-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-07-choffmann')?.name = 'laboraufgabe-07-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-08-choffmann')?.name = 'laboraufgabe-08-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-09-choffmann')?.name = 'laboraufgabe-09-choffmann'
