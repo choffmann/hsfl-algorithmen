@@ -1,0 +1,12 @@
+= WS21/22 - Algorithmen
+
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-00-choffmann[00. Einführung]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-01-choffmann[01. Arrays und ArrayList]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-02-choffmann[02. Einfach verkettete Listen]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-03-choffmann[03. Stack und doppelt verkettete Listen]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-04-choffmann[04. Laufzeitmessung]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-05-choffmann[05. Asymptotische Laufzeiten]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-06-choffmann[06. Bäume]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-07-choffmann[07.  Laufzeit bestimmen]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-08-choffmann[08. Binäre Suche und Summe mittels Divide and Conquer]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-09-choffmann[09.  Dynamische Programmierung und Teilstrings erzeugen]
