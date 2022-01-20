@@ -10,7 +10,7 @@ include 'Laboraufgaben:WS20_21:assignment-01-choffmann','Laboraufgaben:WS20_21:a
         'Laboraufgaben:WS21_22:laboraufgabe-03-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-04-choffmann',
         'Laboraufgaben:WS21_22:laboraufgabe-05-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-06-choffmann',
         'Laboraufgaben:WS21_22:laboraufgabe-07-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-08-choffmann',
-        'Laboraufgaben:WS21_22:laboraufgabe-09-choffmann'
+        'Laboraufgaben:WS21_22:laboraufgabe-09-choffmann', 'Laboraufgaben:WS21_22:laboraufgabe-10-choffmann'
 
 findProject(':Laboraufgaben:WS20_21:assignment-01-choffmann')?.name = 'assignment-01-choffmann'
 findProject(':Laboraufgaben:WS20_21:assignment-02-choffmann')?.name = 'assignment-02-choffmann'
@@ -34,3 +34,4 @@ findProject(':Laboraufgaben:WS21_22:laboraufgabe-06-choffmann')?.name = 'laborau
 findProject(':Laboraufgaben:WS21_22:laboraufgabe-07-choffmann')?.name = 'laboraufgabe-07-choffmann'
 findProject(':Laboraufgaben:WS21_22:laboraufgabe-08-choffmann')?.name = 'laboraufgabe-08-choffmann'
 findProject(':Laboraufgaben:WS21_22:laboraufgabe-09-choffmann')?.name = 'laboraufgabe-09-choffmann'
+findProject(':Laboraufgaben:WS21_22:laboraufgabe-10-choffmann')?.name = 'laboraufgabe-10-choffmann'
