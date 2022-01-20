@@ -1,6 +1,7 @@
 package de.choffmann.algorithms;
 
 import java.util.LinkedList;
+import java.util.List;
 
 public class HashSet<T> implements Set<T> {
     private static final int DEFAULT_INITIAL_CAPACITY = 16;
@@ -56,11 +57,34 @@ public class HashSet<T> implements Set<T> {
 
     @Override
     public boolean contains(Object object) {
-        return false;
+        boolean found = false;
+        int index = index(object, this.table.length);
+        LinkedList<T> tableIndex = this.table[index];
+        if (tableIndex != null) {
+            for (int i = 0; i < tableIndex.size() && !found; i++) {
+                if (object.equals(tableIndex.get(i))) {
+                    found = true;
+                }
+            }
+        }
+        return found;
     }
 
     @Override
     public boolean add(T value) {
-        return false;
+        if (this.loadFactor() > MAX_LOAD_FACTOR) {
+            this.expandTable();
+        }
+        if (!this.contains(value)) {
+            int index = index(value, this.table.length);
+            if (this.table[index] == null) {
+                this.table[index] = new LinkedList<T>();
+            }
+            this.table[index].add(value);
+            this.size++;
+            return true;
+        } else {
+            return false;
+        }
     }
 }
