@@ -10,3 +10,4 @@
 - https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-07-choffmann[07.  Laufzeit bestimmen]
 - https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-08-choffmann[08. Binäre Suche und Summe mittels Divide and Conquer]
 - https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-09-choffmann[09.  Dynamische Programmierung und Teilstrings erzeugen]
+- https://github.com/choffmann/hsfl-algorithmen/tree/main/Laboraufgaben/WS21_22/laboraufgabe-10-choffmann[10.  HashSet]
